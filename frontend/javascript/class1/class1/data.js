@@ -42,4 +42,8 @@ let city='dhenkanal';
 console.log(`my age is:${age} \n my name is:${name} \n my city is :${city}`);
 
 
+//to check length of a string
+console.log("The length of a string is :",city.length);
+
+
 
